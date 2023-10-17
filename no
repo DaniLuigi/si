@@ -330,7 +330,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="LA LIGA",M Laliga
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://jungle-team.com/actualizacion-picon-enigma2-04-07-2023-nuevos-logos-movistar-laliga/1_0_19_750f_420_1_c00000_0_0_0-2/" group-title="LA LIGA",M Laliga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8o/VAWqRF2BDMCIMCtCGqg", "kid":"7ChG0sDgRTG+UQDgxMfezQ" } ], "type":"temporary" }
@@ -706,7 +706,7 @@ https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zbHhTk2QzsjmM30qSTm6Sneyt1mQGzYQoC1fx6KTE3WQHI90jG7XyGd8aCuU3s_BjQ&usqp=CAU" group-title="M CINE",M Cine Español
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/ea876ac7a6d6d854fd599f6b0de1ac4ff3fc6943/jungle-picon-Movistar-Transparente/picon/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="M CINE",M Cine Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1ocTvZeGssLPRbBHjuHpHw", "kid":"qrD82TEUTkif/0b4D6mAmA" } ], "type":"temporary" }
