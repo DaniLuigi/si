@@ -706,7 +706,7 @@ https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="M CINE",Movistar Cine Ñ
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="M CINE",Movistar Drama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZbKflv8HfUV2ZU7FvgBs+Q", "kid":"4OhQDGgYTOOPQpUkXtMc/g" } ], "type":"temporary" }
@@ -714,7 +714,7 @@ https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="M CINE",M Cine Español
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zbHhTk2QzsjmM30qSTm6Sneyt1mQGzYQoC1fx6KTE3WQHI90jG7XyGd8aCuU3s_BjQ&usqp=CAU" group-title="M CINE",M Cine Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1ocTvZeGssLPRbBHjuHpHw", "kid":"qrD82TEUTkif/0b4D6mAmA" } ], "type":"temporary" }
