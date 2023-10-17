@@ -1100,3 +1100,5 @@ https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://inttelemadrid-dash-movistarplus.emisiondof6.com/dash/inttelemadrid.isml/manifest.mpd
+
+https://raw.githubusercontent.com/barryteve/1/main/105
