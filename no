@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="VOMISTAR +",La 1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="MOVISTAR +",La 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ccmH3wie2gRvr1kpMehKXA", "kid":"FPwOOySaQ_qlL8aSeed8qw" } ], "type":"temporary" }
@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd 
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="VOMISTAR +",La 2
+#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"II7mw0YzyTqpq7P9qoOBig", "kid":"hD+Xm2BbTfOu70Wf6nxShw" } ], "type":"temporary" }
@@ -16,7 +16,7 @@ https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="VOMISTAR +",Antena 3
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="MOVISTAR +",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ti0Qlttk084JEg9LmEcvIg", "kid":"e+2VJ7YKRNyPu+mEVoJTpg" } ], "type":"temporary" }
@@ -24,7 +24,7 @@ https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="VOMISTAR +",Cuatro
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="MOVISTAR +",Cuatro
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IQAG+1/crlp9NgUd4xkRtA", "kid":"Jqe6OEGtQR6hOp+50UcOqQ" } ], "type":"temporary" }
@@ -32,7 +32,7 @@ https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="VOMISTAR +",Telecinco
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="MOVISTAR +",Telecinco
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lzFXRLO3CnSvdGzdYaKZ2g", "kid":"gJ7XbyZWQdm8cxNR1qBsQA" } ], "type":"temporary" }
@@ -40,7 +40,7 @@ https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="VOMISTAR +",La Sexta
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="MOVISTAR +",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
@@ -48,10 +48,10 @@ https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1398557359065157634/HnJZTLR-_200x200.jpg" group-title="VOMISTAR +" tvg-name="7 TeleValencia",7 TeleValencia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1398557359065157634/HnJZTLR-_200x200.jpg" group-title="MOVISTAR +" tvg-name="7 TeleValencia",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="VOMISTAR +",M+ Plus
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="MOVISTAR +",M+ Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AIdIpqy7s0kb9d1JNV2CBw", "kid":"hGjuu5XYQYyoXfaiOB+2TQ" } ], "type":"temporary" }
@@ -59,7 +59,7 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="VOMISTAR +",M+ Plus 2
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="MOVISTAR +",M+ Plus 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BNmbiXzBaYOVCl9LDHLWmA", "kid":"TU7Z9FsWQJaKlWnUjLaNZA" } ], "type":"temporary" }
@@ -67,7 +67,7 @@ https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="La Resistencia" tvg-name="" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="VOMISTAR +",La Resistencia
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="MOVISTAR +",La Resistencia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TvgkX3IAE4VPCWz//Y4QKA", "kid":"Fz2ZGRXyShG2es0MdZFDcA" } ], "type":"temporary" }
@@ -75,7 +75,7 @@ https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="VOMISTAR +",Mezzo
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="MOVISTAR +",Mezzo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wO//vG3YOBGitibs2ub8fw", "kid":"0CaN3xZ2SButP6zcG6JGyA" } ], "type":"temporary" }
@@ -83,7 +83,7 @@ https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/z/w/xmezzo-live.jpg.pagespeed.ic.F4oSLaom3_.jpg" group-title="VOMISTAR +",Mezzo Live
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/z/w/xmezzo-live.jpg.pagespeed.ic.F4oSLaom3_.jpg" group-title="MOVISTAR +",Mezzo Live
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VMU7M7PMZgPzcbqQFUai7A", "kid":"Ai1HJlz1Q3yyD030R2DYKw" } ], "type":"temporary" }
@@ -91,10 +91,10 @@ https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="La 8 Mediterraneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="VOMISTAR +",La 8 Mediterraneo
+#EXTINF:-1 tvg-id="La 8 Mediterraneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="MOVISTAR +",La 8 Mediterraneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="VOMISTAR +",BE MAD
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="MOVISTAR +",BE MAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2H23g8bh02J/mOD2+7J5Xg", "kid":"9HF2/2WbTf+fpsA/6+MpOw" } ], "type":"temporary" }
@@ -102,7 +102,7 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_ESPA%C3%91A_LOGO.png/800px-FOX_ESPA%C3%91A_LOGO.png" group-title="VOMISTAR +",FOX
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_ESPA%C3%91A_LOGO.png/800px-FOX_ESPA%C3%91A_LOGO.png" group-title="MOVISTAR +",FOX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8DWMaA/8RpBAB95GE4jfKA", "kid":"ReQWOaC5RT+bJgy50DJjaQ" } ], "type":"temporary" }
@@ -110,7 +110,7 @@ https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="VOMISTAR +",Warner TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="MOVISTAR +",Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/ckswrp34MEG+YoxQ/pPVw", "kid":"zcyShbmwQnCXepJ4vWsRaA" } ], "type":"temporary" }
@@ -118,10 +118,10 @@ https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="VOMISTAR +", GH VIP 8
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="MOVISTAR +", GH VIP 8
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="VOMISTAR +",COSMO
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR +",COSMO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fJxXdCOuDuK8Zy8QsAiZaQ", "kid":"RA0lH7CnQsa6EY4d0Nhv/g" } ], "type":"temporary" }
@@ -129,7 +129,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.syfy.es/sites/default/files/syfy_negro.jpg" group-title="VOMISTAR +",SYFY
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.syfy.es/sites/default/files/syfy_negro.jpg" group-title="MOVISTAR +",SYFY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/OhjttrwqRkNuF7O3iSB9g", "kid":"C1InwRD8SvW1Buamx3kdoQ" } ], "type":"temporary" }
@@ -137,7 +137,7 @@ https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/05/generica_elem_amcsp.jpg" group-title="VOMISTAR +",AMC
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/05/generica_elem_amcsp.jpg" group-title="MOVISTAR +",AMC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sfpkbr4hjRlliz4xOkmFkw", "kid":"RzHxiWuxR3GvvRxxwi8qog" } ], "type":"temporary" }
@@ -145,7 +145,7 @@ https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_antes.jpg" group-title="VOMISTAR +",13 TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_antes.jpg" group-title="MOVISTAR +",13 TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gglU8t9S0XFkS0Na8FYzdQ", "kid":"YS6tV6AfT+qHr0mCMawtsQ" } ], "type":"temporary" }
@@ -153,7 +153,7 @@ https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="VOMISTAR +",Energy
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="MOVISTAR +",Energy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ubQC/xCL8+Sk3uusMcQ15Q", "kid":"oUCTr0EcQNmSTuDYa7wYsQ" } ], "type":"temporary" }
@@ -161,7 +161,7 @@ https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="VOMISTAR +",Factoría de Ficción
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="MOVISTAR +",Factoría de Ficción
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HnTNw8zIIuGcFBggMy3c1A", "kid":"4kf+FoPvSiiBfRycH+RY/A" } ], "type":"temporary" }
@@ -169,7 +169,7 @@ https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="VOMISTAR +",Neox
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="MOVISTAR +",Neox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ACh3Pvf12RH76jbTFjs2AQ", "kid":"cLpL3ePgTWWejPGMB2FT3A" } ], "type":"temporary" }
@@ -177,7 +177,7 @@ https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.diariodenavarra.es/uploads/2015/12/10/60b0dde8502d7.jpeg" group-title="VOMISTAR +",Atreseries
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.diariodenavarra.es/uploads/2015/12/10/60b0dde8502d7.jpeg" group-title="MOVISTAR +",Atreseries
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K7Zz8RfsnxSDeya75hqs5g", "kid":"FLr1QMhrSOSVRFm6Dnbepw" } ], "type":"temporary" }
@@ -185,7 +185,7 @@ https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg" group-title="VOMISTAR +",Paramount Channel
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg" group-title="MOVISTAR +",Paramount Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8b6zn12Pz5lukyhwlusNJQ", "kid":"gt6FALVaSmqhin2XtSXJPw" } ], "type":"temporary" }
@@ -193,7 +193,7 @@ https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/636a562e4919d_somos081122.jpg" group-title="VOMISTAR +",Somos
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/636a562e4919d_somos081122.jpg" group-title="MOVISTAR +",Somos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SBnCxWGpGMeYlY77iCjT1Q", "kid":"3nZn0680QLuzWahveqIVGw" } ], "type":"temporary" }
@@ -201,7 +201,7 @@ https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/a/r/dark.jpg" group-title="VOMISTAR +",Dark
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/a/r/dark.jpg" group-title="MOVISTAR +",Dark
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9wdiI4uyKMhbglRZ577Vpw", "kid":"C6rcWoqfTTmAj/LdPTacew" } ], "type":"temporary" }
@@ -209,7 +209,7 @@ https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg" group-title="VOMISTAR +",Sundance
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg" group-title="MOVISTAR +",Sundance
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Xt/XZ1Rm8xuHFX7h9p1fEA", "kid":"AJhaKp9yTwe30dQz1SvSFg" } ], "type":"temporary" }
@@ -217,7 +217,7 @@ https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://amcnetworks.es/wp-content/uploads/2013/06/XTRM-NUEVA-IMAGEN3.jpg" group-title="VOMISTAR +",XTRM
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://amcnetworks.es/wp-content/uploads/2013/06/XTRM-NUEVA-IMAGEN3.jpg" group-title="MOVISTAR +",XTRM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v3dHw/HNStlPRh6D1cWIjA", "kid":"2CHa1OYsTcaV4f94GaNlbg" } ], "type":"temporary" }
@@ -225,7 +225,7 @@ https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="VOMISTAR +",Hollywood
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MOVISTAR +",Hollywood
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3McD480rn2c3nBFlWWzFmA", "kid":"hgKTWAzcQY2ywRkLKLKIiQ" } ], "type":"temporary" }
@@ -233,13 +233,13 @@ https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="VOMISTAR +",OneToro TV HD
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR +",OneToro TV HD
 http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 
-#EXTINF:0 tvg-id="ext" group-title="VOMISTAR +",ONETORO TV FHD
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR +",ONETORO TV FHD
 http://959318160705441850.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441850.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="VOMISTAR +",TCM
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="MOVISTAR +",TCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t5GoRH0DDXhV+eIxiGy5cw", "kid":"0jnq7BHUTcSej3SvDnMwpw" } ], "type":"temporary" }
@@ -247,7 +247,7 @@ http://959318160705441850.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441850.ts
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://c0.klipartz.com/pngpicture/845/719/sticker-png-classica-hd-logo-high-definition-television-television-channel-paramount-channel-italy-jakale-film-gmbh-co-kg-text-logo-classical-music-industrial-design-television-channel.png" group-title="VOMISTAR +",Classica
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://c0.klipartz.com/pngpicture/845/719/sticker-png-classica-hd-logo-high-definition-television-television-channel-paramount-channel-italy-jakale-film-gmbh-co-kg-text-logo-classical-music-industrial-design-television-channel.png" group-title="MOVISTAR +",Classica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O5fVT9hKiq71/fhBQLMboQA", "kid":"qUWUpE+RQZeW0AEbRl3lKQ" } ], "type":"temporary" }
@@ -522,7 +522,7 @@ https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="data:image/png;base64,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" group-title="VOMISTAR +",M+ #Vamos
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="data:image/png;base64,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" group-title="MOVISTAR +",M+ #Vamos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Y17UlNmQRmApuWgcfZgRQw", "kid":"d7fl6LY1S/iSWvDd0kr+vQ" } ], "type":"temporary" }
@@ -618,7 +618,7 @@ https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="VOMISTAR +",M+ Ellas #V
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="MOVISTAR +",M+ Ellas #V
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ort/uBBtqJgl2rV/0cLiTg", "kid":"vEV9E+g1Tjuj/kZ9/lMV7Q" } ], "type":"temporary" }
@@ -642,7 +642,7 @@ https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Terror" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/terror_mplus_logo.jpg" group-title="VOMISTAR +",M+ Terror
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/terror_mplus_logo.jpg" group-title="MOVISTAR +",M+ Terror
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
@@ -720,7 +720,7 @@ https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="VOMISTAR +",M+ Originales
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MOVISTAR +",M+ Originales
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k0iMNJenxoSGGH21bvq6SQ", "kid":"Ewdc75TiTKKbTvVhShoRkg" } ], "type":"temporary" }
@@ -757,7 +757,7 @@ https://horsetv-dash-movistarplus.emisiondof6.com/dash/horsetv.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="VOMISTAR +",Ubeat
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="MOVISTAR +",Ubeat
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F3EdeIDmqdiWV5El0zQnvw", "kid":"ShPsGfOaR9qW1ndRHtwBFg" } ], "type":"temporary" }
@@ -1069,7 +1069,7 @@ https://tdttvcanarias-dash-movistarplus.emisiondof6.com/dash/tdttvcanarias.isml/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="VOMISTAR +",Á Punt
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="MOVISTAR +",Á Punt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"u0NnA96hq+ZgwAlnZXo10w", "kid":"PaaZ3ZDKTtW1ktwaKUgSrQ" } ], "type":"temporary" }
