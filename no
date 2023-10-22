@@ -264,7 +264,7 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="" tvg-logo="https://jungle-team.com/actualizacion-picon-enigma2-04-07-2023-nuevos-logos-movistar-laliga/1_0_1_7691_41e_1_c00000_0_0_0-2/" group-title="MOVISTAR +",Dazn LaLiga 2
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+http://relectro.xyz:8080/Leafar/fQE5BM66Hc/202
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",DAZN 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
