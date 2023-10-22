@@ -477,7 +477,7 @@ https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=5c2588&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem2.png" group-title="DEPORTES",M+ Deportes 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MfSMMufCBOCA89ixqdXRfw", "kid":"872x5bo4TPqGt0MdW3avCg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ukZhCfFC4q1N9gY3mo4qoA", "kid":"lQ6iPb46T96HVo4h3l21Zw" } ], "type":"temporary" }
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
