@@ -642,7 +642,7 @@ https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Terror" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/terror_mplus_logo.jpg" group-title="MOVISTAR +",Movistar terror
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="MOVISTAR +",M+ terror
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
@@ -650,7 +650,7 @@ https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="" tvg-logo="https://www.movistarplus.es/guiamovil/MCLAS" group-title="MOVISTAR +",M+ Clásicos
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR +",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7JxdGlQ1zPRyMRBefTHAug", "kid":"MWf1sdypS9OUZbOopClQaQ" } ], "type":"temporary" }
@@ -666,7 +666,7 @@ https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="" tvg-logo="https://www.movistarplus.es/guiamovil/CPACCI" group-title="MOVISTAR +",M+ Acción
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR +",M+ Acción
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZJQDbUJIgd4owKfJ86Ghmg", "kid":"la901ftZT9WLhWptdDz3fw" } ], "type":"temporary" }
@@ -674,7 +674,7 @@ https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="" tvg-logo="https://www.movistarplus.es/guiamovil/CPCOME" group-title="MOVISTAR +",M+ Comedia
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR +",M+ Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FLvYGsC44wzcHXtmRedXmg", "kid":"7L3jQA9DTROM+s4CqKt8qw" } ], "type":"temporary" }
