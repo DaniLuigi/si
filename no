@@ -129,7 +129,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR +",SYFY
+#EXTINF:-1 tvg-id="SyFy" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR +",SYFY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/OhjttrwqRkNuF7O3iSB9g", "kid":"C1InwRD8SvW1Buamx3kdoQ" } ], "type":"temporary" }
