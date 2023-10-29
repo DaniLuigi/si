@@ -284,7 +284,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="Dazn 3"  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="DAZN",Dazn 3
+#EXTINF:-1 tvg-id="Dazn 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="DAZN",Dazn 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
 https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
