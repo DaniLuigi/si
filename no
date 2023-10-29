@@ -262,11 +262,10 @@ https://clasica-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
-ç
+
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="" tvg-logo="https://jungle-team.com/actualizacion-picon-enigma2-04-07-2023-nuevos-logos-movistar-laliga/1_0_1_7691_41e_1_c00000_0_0_0-2/" group-title="MOVISTAR +",Dazn LaLiga 2
-EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",DAZN 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={5c2338f9f7224f659b6650930c966888:aefa97690fdea5e660ffc93e8a9e08c2}
 #EXTVLCOPT:http-referer=https://www.dazn.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
