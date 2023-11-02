@@ -781,7 +781,7 @@ https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="MOVISTAR +", National Geographic
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" group-title="MOVISTAR +", National Geographic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6Dn0hyRXsa/NVfOIzq6seg", "kid":"451ScD8bTpy180oOtWo0eA" } ], "type":"temporary" }
@@ -789,7 +789,7 @@ https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://geonat-dash-movistarplus.emisiondof6.com/dash/geonat.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="MOVISTAR +", Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ext" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="MOVISTAR +", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CFrlRR+R2JLo6UBt2VHpaA", "kid":"vyyAz4Q1TtmqBNH9xmsXVw" } ], "type":"temporary" }
