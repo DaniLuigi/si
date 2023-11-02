@@ -101,7 +101,7 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=31d3c8de4f46404d96855a84b3568ea1:72d1c888c7ccb4bb2bb10e61fd241a5b
 https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="El Toro TV" group-title="M AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",El Toro TV
+#EXTINF:-1 tvg-id="" tvg-name="El Toro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="M AUTONOMICOS",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="MOVISTAR +",BE MAD
