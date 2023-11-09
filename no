@@ -895,13 +895,11 @@ https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="MOVISTAR +", Mega
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="MOVISTAR +", Mega HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"62G53SnOCNd9sR4yXAbvBw", "kid":"tI/Re9h7TMaXxlhm5zFO1g" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yUTRFbc5Wc2kHzMGaph3uA","k":"97yGTG06pv+SUl1/7Z7ItA"},{"kty":"oct","kid":"AQDd8vXrVrudEVU68GaSAw","k":"JqIlkSWD1zDjV5Gr/lE3kA"}]}
+https://tvup-live.secure2.footprint.net/mega6/mega6.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="M ESTILO DE VIDA", BE MAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
