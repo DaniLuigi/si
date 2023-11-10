@@ -274,9 +274,7 @@ https://clasica-dash-movistarplus.emisiondof6.com/manifest.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-id="Dazn LaLiga 2" group-title="MOVISTAR +",Dazn LaLiga 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c2338f9f7224f659b6650930c966888:aefa97690fdea5e660ffc93e8a9e08c2
-https://cutv-wp21.cdn.telefonica.com/5120/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
