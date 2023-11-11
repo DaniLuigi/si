@@ -323,7 +323,7 @@ https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
 https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
 
-#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="MOVISTAR +",LaLiga TV Bar 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="MOVISTAR +",LaLiga TV Bar 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OioEceG7VySvek28ktxM2A","k":"3IoH6K8kDLLhaYxlLY/R0g"},{"kty":"oct","kid":"1yJmOGCHV6uJd71m9ao9vg","k":"fBeeBZPpx8wZBSYpUu7DmQ"}]}
 https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
