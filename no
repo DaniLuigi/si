@@ -323,6 +323,11 @@ https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
 https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
 
+#EXTINF:-1  tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" group-title="MOVISTAR +",LaLiga TV Andorra 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"},{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"}]}
+https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
