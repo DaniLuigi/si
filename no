@@ -32,7 +32,7 @@ https://antena3-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
 
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="MOVISTAR +",Telecinco
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_tvapp_ab3322af0ff11327dedee6e24.png" group-title="MOVISTAR +",Telecinco
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lzFXRLO3CnSvdGzdYaKZ2g", "kid":"gJ7XbyZWQdm8cxNR1qBsQA" } ], "type":"temporary" }
@@ -40,7 +40,7 @@ https://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd
 
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="MOVISTAR +",La Sexta
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png" group-title="MOVISTAR +",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
@@ -639,7 +639,7 @@ https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="MOVISTAR +",Eurosport 1
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_1_WHITE_176x122.png" group-title="MOVISTAR +",Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"82zUEGHuh0EbQduew62Hlg", "kid":"MyGLUh8ORHqTWtyZFVTGaw" } ], "type":"temporary" }
@@ -647,7 +647,7 @@ https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="MOVISTAR +",Eurosport 2
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_2_WHITE_176x122.png" group-title="MOVISTAR +",Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZkRsyba5xpQ8awn6vvV78Q", "kid":"Fv5a55RrQZeyQRyf/2HSKA" } ], "type":"temporary" }
