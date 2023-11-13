@@ -187,7 +187,7 @@ https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="MOVISTAR +",Atreseries
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/ATRESERIES_176x122.png" group-title="MOVISTAR +",Atreseries
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K7Zz8RfsnxSDeya75hqs5g", "kid":"FLr1QMhrSOSVRFm6Dnbepw" } ], "type":"temporary" }
