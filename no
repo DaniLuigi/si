@@ -40,7 +40,7 @@ https://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd
 
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="MOVISTAR +",La Sexta
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ALaSexta_HD_Logo_2016.png&psig=AOvVaw1uUMnMVmBGQR8VAZKuWfvn&ust=1699985191959000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCO273IwYIDFQAAAAAdAAAAABAE" group-title="MOVISTAR +",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
