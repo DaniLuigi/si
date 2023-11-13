@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1 tvg-id="La 1" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MOVISTAR +",La 1 HD
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MOVISTAR +",La 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ccmH3wie2gRvr1kpMehKXA", "kid":"FPwOOySaQ_qlL8aSeed8qw" } ], "type":"temporary" }
@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100 
 https://tvela1-dash-movistarplus.emisiondof6.com/manifest.mpd
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="MOVISTAR +",La 2 HD
+#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"II7mw0YzyTqpq7P9qoOBig", "kid":"hD+Xm2BbTfOu70Wf6nxShw" } ], "type":"temporary" }
