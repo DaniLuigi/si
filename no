@@ -287,7 +287,7 @@ https://dnmupk2cxof0g.cloudfront.net/daznch01/daznch01.mpd
 #EXTINF:-1 tvg-id="DAZN 2 BAR" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png?w=96&h=72&tok=79ab3f" group-title="MOVISTAR +",DAZN 2 BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"54DxexCxrjfBc3k7HgCXJg", "kid":"XuMeryY2Q2mYmTM/5l+gFg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dnnmYXE+BwD+hnDPg8JSEw", "kid":"u8MvQFcIRy2oekd0tmQZSA" } ], "type":"temporary" }
 https://dmc5sdps1d8o6.cloudfront.net/daznch02/daznch02.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN",DAZN 1
