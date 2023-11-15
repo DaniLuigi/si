@@ -768,7 +768,7 @@ https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AXN_176x122.png" group-title="MOVISTAR +",AXN Movies
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AXN_MOVIES_BLANCO_LOGO_176x122.png" group-title="MOVISTAR +",AXN Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NQKEaed5AnGM/wTIGue+oA", "kid":"NiexOYtxTgui2VCsI4rnLQ" } ], "type":"temporary" }
@@ -797,12 +797,11 @@ https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/mani
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AXN_MOVIES_BLANCO_LOGO_176x122.png" group-title="MOVISTAR +",AXN
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AXN_176x122.png" group-title="MOVISTAR +",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0v3A8NrL5hgKR5UmZX16bw", "kid":"XGfBO8PEQrCS5JBssBs0Tw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png" group-title="DEPORTES",Horse TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
