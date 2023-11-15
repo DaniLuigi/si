@@ -121,12 +121,9 @@ https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="MOVISTAR +",Warner TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/ckswrp34MEG+YoxQ/pPVw", "kid":"zcyShbmwQnCXepJ4vWsRaA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="MOVISTAR +", GH VIP 8
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
@@ -156,12 +153,9 @@ https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="MOVISTAR +",13 TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gglU8t9S0XFkS0Na8FYzdQ", "kid":"YS6tV6AfT+qHr0mCMawtsQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fce2ad7b5af340e31da7c559decdd4:5f92152dc862fdab5eff9abf0b8b6940
+https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENERGY" group-title="MOVISTAR +",Energy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -172,12 +166,9 @@ https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="MOVISTAR +",Factoría de Ficción
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HnTNw8zIIuGcFBggMy3c1A", "kid":"4kf+FoPvSiiBfRycH+RY/A" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
+https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="MOVISTAR +",Neox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -196,12 +187,9 @@ https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR +",Paramount Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8b6zn12Pz5lukyhwlusNJQ", "kid":"gt6FALVaSmqhin2XtSXJPw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46cebb5906150f7e0aadc3a4d93d1a6c:757da1b0cdcf2c54c6c8b1560f272d33
+https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SOMOS" group-title="MOVISTAR +",Somos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1039,12 +1027,9 @@ https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="MTV España" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="M MUSICA", MTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Gh5HYKoiL3YiIqhT4Ycmxw", "kid":"DGkt4keOS3eFl3gdD84UNQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://espanamtv-dash-movistarplus.emisiondof6.com/dash/espanamtv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
 #EXTINF:-1 tvg-id="MTV 00s" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="M MUSICA", MTV 00s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
