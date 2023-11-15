@@ -317,6 +317,12 @@ https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=D
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jg6hKJE1NV8K71kma9AHDg", "kid":"Q2whZDkuRg2uQUIPU/nzlg" } ], "type":"temporary" }
 https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=
 
+#EXTINF:-1 tvg-id="Dazn F1 Bar" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1" group-title="DAZN",Dazn F1 Bar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T9yOAGDhgk/vE9mMYvXnGg", "kid":"coXSf10dR7iAwLK+x9GV0g" } ], "type":"temporary" }
+https://d3nqic46bxtya.cloudfront.net/daznch00/daznch00.mpd
+
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1" group-title="DAZN F1",Dazn F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
