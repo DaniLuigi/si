@@ -8,6 +8,13 @@
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100 
 https://tvela1-dash-movistarplus.emisiondof6.com/manifest.mpd
 
+#EXTINF:-1 tvg-id="" group-title=,teste
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"82zUEGHuh0EbQduew62Hlg", "kid":"MyGLUh8ORHqTWtyZFVTGaw" } ], "type":"temporary" }
+https://cutv-wp11.cdn.telefonica.com/4605/vxfmt=dp/Manifest.mpd?device_profile=DASH_WPC_WIDEVINE&start_time=2023-11-12T13:01:00Z&end_time=2023-11-12T14:45:00Z
+
 #EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
