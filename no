@@ -638,11 +638,9 @@ https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.m
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="MOVISTAR +",GOL PLAY HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VzWj92fIRLL/QSjXeIN5pA", "kid":"giq3OeAgT2uG8N2oUnUrfQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb47a574b75f442e9ec7d7fcfb480b18:8d2b59d7d87085c3fdeadd4b610021c7
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_1_WHITE_176x122.png" group-title="MOVISTAR +",Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
