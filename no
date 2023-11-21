@@ -589,11 +589,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="ext" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7606_408_1_C00000_0_0_0.png?w=440&ssl=1" group-title="LALIGA HYPERMOTION",LaLiga Hypermotion 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jOCQq0DlrzIBVCJ3X7G8XA", "kid":"hybufQncQaaIraXfScCOoQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name="ext" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_760D_408_1_C00000_0_0_0.png?w=440&ssl=1" group-title="LALIGA HYPERMOTION",LaLiga Hypermotion 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1046,11 +1044,9 @@ https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/mani
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="MOVISTAR +",Á Punt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"u0NnA96hq+ZgwAlnZXo10w", "kid":"PaaZ3ZDKTtW1ktwaKUgSrQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c720da6eb15228edb8bde37c13be8b:4aa47fc89cd090b3d0851c7dbd2602ee
+https://ott.zapitv.com/live/eds_c2/a_punt_hd/dash_live_enc/a_punt_hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="M AUTONOMICOS", Telemadrid Int
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
