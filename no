@@ -7,52 +7,35 @@
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
-#EXTINF:-1 tvg-id="" group-title=,teste
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"82zUEGHuh0EbQduew62Hlg", "kid":"MyGLUh8ORHqTWtyZFVTGaw" } ], "type":"temporary" }
-https://cutv-wp11.cdn.telefonica.com/4605/vxfmt=dp/Manifest.mpd?device_profile=DASH_WPC_WIDEVINE&start_time=2023-11-12T13:01:00Z&end_time=2023-11-12T14:45:00Z
-
 #EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"II7mw0YzyTqpq7P9qoOBig", "kid":"hD+Xm2BbTfOu70Wf6nxShw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://la2-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="MOVISTAR +",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ti0Qlttk084JEg9LmEcvIg", "kid":"e+2VJ7YKRNyPu+mEVoJTpg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://antena3-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
+https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="MOVISTAR +",Cuatro
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IQAG+1/crlp9NgUd4xkRtA", "kid":"Jqe6OEGtQR6hOp+50UcOqQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_tvapp_ab3322af0ff11327dedee6e24.png" group-title="MOVISTAR +",Telecinco
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lzFXRLO3CnSvdGzdYaKZ2g", "kid":"gJ7XbyZWQdm8cxNR1qBsQA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1dbacf4b932a11cd6cecb741def23d:0375536d6e512003972d1d6ea1f4d7c0
+https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png" group-title="MOVISTAR +",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://lasexta-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
+https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1398557359065157634/HnJZTLR-_200x200.jpg" group-title="MOVISTAR +" tvg-name="7 TeleValencia",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
