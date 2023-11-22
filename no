@@ -145,7 +145,7 @@ https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="MOVISTAR +",Neox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:input#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zanR0NIiWCKnd/2c5eyDJw","k":"DAy93v+ZcgXR6T41N0auVw"},{"kty":"oct","kid":"hvlrbV19U5msHgOWhInalw","k":"pgH4PoymlQBFD2tztkinBg"},{"kty":"oct","kid":"TvpR/4iOWjyP9asAXZ2mrg","k":"C4XX3cCxnAaJX5BVM8Zn7w"}]}
 https://tvup-live.secure.footprint.net/neox6/neox6.mpd
 
