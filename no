@@ -41,11 +41,9 @@ https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS" group-title="MOVISTAR +",M+ Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AIdIpqy7s0kb9d1JNV2CBw", "kid":"hGjuu5XYQYyoXfaiOB+2TQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8468eebb95d8418ca85df6a2381fb64d:008748a6acbbb3491bf5dd49355d8207
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
 https://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2" group-title="MOVISTAR +",M+ Plus 2
@@ -57,12 +55,10 @@ https://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" group-title="MOVISTAR +",La Resistencia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TvgkX3IAE4VPCWz//Y4QKA", "kid":"Fz2ZGRXyShG2es0MdZFDcA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZO" group-title="MOVISTAR +",Mezzo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -301,12 +297,10 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8o/VAWqRF2BDMCIMCtCGqg", "kid":"7ChG0sDgRTG+UQDgxMfezQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec2846d2c0e04531be5100e0c4c7decd:f28fd5016a9117604330220c0ad086aa
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-name="M Laliga UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="MOVISTAR +",M+ Laliga UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -317,12 +311,10 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR +",M+ Laliga 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PYcqXnjnE46SHhLDhtAlog", "kid":"i7damXZQSC+/cwY5F1pNAw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bb75a997650482fbf730639175a4d03:3d872a5e78e7138e921e12c386d025a2
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MOVISTAR +",M+ Laliga 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -341,12 +333,10 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR +",M+ Liga de Campeones
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2mrloEalbuaE+oNZ2+DB/Q", "kid":"wGfLjXNXSZ+UWZpge4X50w" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones UHD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png?width=1440&height=540" group-title="MOVISTAR +",M+ Liga de Campeones UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -357,12 +347,10 @@ https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.ism
 https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="MOVISTAR +",M+ Liga de Campeones 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0yF1hkDFREYwbGKFrAYH8A", "kid":"wIkGN+KvRtSXtWIMyIkZqw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0890637e2af46d497b5620cc88919ab:d321758640c54446306c6285ac0607f0
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://02campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MOVISTAR +",M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -536,12 +524,10 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 https://8multidep-dash-movistarplus.emisiondof6.com/dash/8multidepor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MOVISTAR +",M+ #Vamos
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Y17UlNmQRmApuWgcfZgRQw", "kid":"d7fl6LY1S/iSWvDd0kr+vQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7e5e8b6354bf8925af0ddd24afebd:635ed494d990466029b9681c7d981143
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF%2B" group-title="DEPORTES",M+ Golf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -626,12 +612,10 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MOVISTAR +",M+ Cine
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yNPSclyn+yOwZUgwqjIvKg", "kid":"n7HwY40/Suyjejx6avL+9g" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fb1f0638d3f4aeca37a3c7a6af2fef6:c8d3d2725ca7fb23b0654830aa322f2a
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="ext" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" group-title="MOVISTAR +",M+ Indie
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -642,12 +626,10 @@ https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Terror" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="MOVISTAR +",M+ terror
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e0b0471630497eb81fc17f39a52218:4f44558664e3efc1811b7ce88beb597a
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR +",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -720,18 +702,16 @@ https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
 #EXTINF:-1 tvg-id="M+ Series HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR +",M+ Series
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eu1x3O6kSvctlEw7V7AJrg", "kid":"CfMf0/xYQCmzEOjkiR4ZTA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09f31fd3fc584029b310e8e4891e194c:7aed71dceea44af72d944c3b57b009ae
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MOVISTAR +",M+ Originales
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k0iMNJenxoSGGH21bvq6SQ", "kid":"Ewdc75TiTKKbTvVhShoRkg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13075cef94e24ca29b4ef5614a1a1192:93488c3497a7c68486187db56efaba49
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
+https://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CL13" group-title="MOVISTAR +",Calle 13
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
