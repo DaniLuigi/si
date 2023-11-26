@@ -297,24 +297,10 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec2846d2c0e04531be5100e0c4c7decd:f28fd5016a9117604330220c0ad086aa
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
-https://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-name="M Laliga UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="MOVISTAR +",M+ Laliga UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4LR7ZBYcj5aTPU6Ciw6Kfg", "kid":"Lgu3+wqkQXWKkedYvzDYKQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifest.mpd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR +",M+ Laliga 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bb75a997650482fbf730639175a4d03:3d872a5e78e7138e921e12c386d025a2
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
-https://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MOVISTAR +",M+ Laliga 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
