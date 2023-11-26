@@ -254,15 +254,14 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-id="Dazn 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN",Dazn 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
-https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium447/index.m3u8
 
 #EXTINF:-1 tvg-id="Dazn 4" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN",Dazn 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jg6hKJE1NV8K71kma9AHDg", "kid":"Q2whZDkuRg2uQUIPU/nzlg" } ], "type":"temporary" }
-https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium448/index.m3u8
 
 #EXTINF:-1 tvg-id="Dazn F1 Bar" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1" group-title="DAZN",Dazn F1 Bar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
