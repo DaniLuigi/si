@@ -296,7 +296,7 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i7+zwYjCuAOx+CDYEmftqw", "kid":"rypleU5XSn+u/ciTe6AHvg" } ], "type":"temporary" }
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://vavoo.to/play/3720690828/index.m3u8
 
