@@ -297,7 +297,8 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/3720690828/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR +",M+ Laliga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
@@ -319,10 +320,9 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR +",M+ Liga de Campeones
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
-https://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium435/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones UHD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png?width=1440&height=540" group-title="MOVISTAR +",M+ Liga de Campeones UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -447,36 +447,24 @@ https://16campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 https://17campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP" group-title="DEPORTES",M+ Deportes
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZG/TT4kKXNtlW/mpevBtRw", "kid":"8Yw5tw+BRtmnnp3AwylGTQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium436/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR" group-title="DEPORTES",M+ Deportes 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ukZhCfFC4q1N9gY3mo4qoA", "kid":"lQ6iPb46T96HVo4h3l21Zw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium438/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2" group-title="DEPORTES",M+ Deportes 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K2I2pe3CiUqXLAeRky87Tg", "kid":"E3cLuRR4SA2IBajYAKAB+Q" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium526/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3" group-title="DEPORTES",M+ Deportes 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MfSMMufCBOCA89ixqdXRfw", "kid":"872x5bo4TPqGt0MdW3avCg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium527/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP11" group-title="DEPORTES",M+ Deportes 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -510,10 +498,8 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 https://8multidep-dash-movistarplus.emisiondof6.com/dash/8multidepor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MOVISTAR +",M+ #Vamos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77b7e5e8b6354bf8925af0ddd24afebd:635ed494d990466029b9681c7d981143
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDA3NjU4NzEsImV4cCI6MTcwMDg1MjI3MSwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAwNzY1ODcxLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjJGRjZENjI2RkQ3NzlCQkI1NjVGNzkzQzBFRDA1NDNCIiwiaWF0IjoxNzAwNzY1ODcxLCJzY29wZSI6ImNkbiJ9.pEt9lfv2f0e6G-0eBVWLKTgkra_FgGzjxTn1_3fiAM6zGszJF02umbrsJfCEX95dRUROssujb8Qmyz57Ss8YxQ
-https://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/2185471044/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF%2B" group-title="DEPORTES",M+ Golf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
