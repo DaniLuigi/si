@@ -301,8 +301,7 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-http://vavoo.to/play/3720690828/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR +",M+ Laliga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
