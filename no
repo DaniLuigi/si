@@ -78,7 +78,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/o
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
 
 #EXTINF:-1 tvg-id="La 8 Mediterraneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" group-title="MOVISTAR +",La 8 Mediterraneo
-https://streaming004.gestec-video.com/hls/8TV.m3u8
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="DKISS" group-title="MOVISTAR +" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
 #KODIPROP:inputstream=inputstream.adaptive
