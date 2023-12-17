@@ -301,10 +301,14 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M Laliga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR +",M+ Laliga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/36Nfl3VeIQPhpmX0OgH1vg/1702885177///76/cmaf/r12_mlaliga/dash_high.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR +",M+ Laliga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/P3TvTeXZxbW8Grss9C9tyA/1702885218///75/cmaf/r12_mlaliga2/dash_high.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MOVISTAR +",M+ Laliga 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
