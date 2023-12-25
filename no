@@ -277,14 +277,6 @@ https://d3nqic46bxtya.cloudfront.net/daznch00/daznch00.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD" group-title="DAZN F1",Dazn F1 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4Tmo0OENYng7WPU46iCPg", "kid":"G3ZhJzetTWeDdvbkbIEEow" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="MOVISTAR +",LaLiga TV Andorra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
