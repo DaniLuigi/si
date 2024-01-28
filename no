@@ -129,10 +129,7 @@ https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NEOX%29/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/ATRESERIES_176x122.png" group-title="MOVISTAR +",Atreseries
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hYHBnPg+mwqHJIQ3fqjBYg", "kid":"L5+K7HMa2bbahOct8rMY+g" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR +",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -215,16 +212,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="Dazn 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN",Dazn 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium447/index.m3u8
-
-#EXTINF:-1 tvg-id="Dazn 4" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN",Dazn 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium448/index.m3u8
-
 #EXTINF:-1 tvg-id="Dazn F1 Bar" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1" group-title="DAZN",Dazn F1 Bar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -290,14 +277,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7244379f8f6382d40afec871fb8e4219a8038
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="MOVISTAR +",M+ Liga de Campeones 10
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="MOVISTAR +",M+ Liga de Campeones 11
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ig6msudl9U4o+9R0RQSWWQ", "kid":"3iJCjNAsQnGX4q/KYQUWFQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7607_408_1_C00000_0_0_0.png?w=440&ssl=1" group-title="LALIGA HYPERMOTION",LaLiga Hypermotion
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -447,7 +426,7 @@ https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wrdz9cCVWeWK1yyQFKVMdg","k":"MqcK7LoIGRdNnUxC2+rTHw"},{"kty":"oct","kid":"RC3OaBzyVp+abdX9g8oH0Q","k":"a8eIY6TONiKORSbwe7N/fQ"},{"kty":"oct","kid":"UDYY+Cl4Xe+8SkDaHDUMjQ","k":"78RbZPmjrwqVWPq6rF+vow"}]}
 https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="MOVISTAR +", Mega
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="MOVISTAR +", Mega HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fedca9d905f24768889d4b79759977d8:eb06b9f13d536dfde729ebdc849da435
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28MEGA%29/manifest.mpd
