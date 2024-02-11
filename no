@@ -476,10 +476,9 @@ https://panda-dash-movistarplus.emisiondof6.com/dash/panda.isml/manifest.mpd
 https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="MOVISTAR +", Nickelodeon
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C1ufPoDAU2iS6On/pz5rtg","k":"HSJVzRN2dtCnRv49J67eAw"},{"kty":"oct","kid":"WKbiPCX1VO2ge0agSV5Pqw","k":"+V3BHv9S0lmBUPlrffovbQ"},{"kty":"oct","kid":"G8/u//WVXhWlbUGucPEnvA","k":"Hp2Z7gpkzDDBHf49ev1jCA"}]}
-https://tvup-gra-livegeo.secure2.footprint.net/nickelodeon/nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b383c9207bf4e178200126b3e67df30:e42f4fc0a0250da87a36c0372d908904
+https://mad01.cdn.avatel.tv/live/eds/nick/MPEG-DASH_Scrambled_High/nick.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="M INFANTILES", Dreamworks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
