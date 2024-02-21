@@ -12,11 +12,10 @@ https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
-#EXTINF:-1 tvg-id="UFC" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MOVISTAR +, UFC OP1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-
-#EXTINF:-1 tvg-id="UFC" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MOVISTAR +, UFC OP2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="MOVISTAR +",TUDN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
