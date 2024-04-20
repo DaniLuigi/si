@@ -30,10 +30,7 @@ https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
 
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="ESPN",ESPN Extra
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000110_019562/manifest.mpd?key2=064cf3223b9c2bdda24e9f89bf28a6d2&key=b18766306c8b4446a7431f3664976a5e
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png" group-title="USA",Fox Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
