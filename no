@@ -12,6 +12,12 @@ https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/300px-TNT_Sports_Logo.svg.png" group-title="TNT Sports",TNT Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"010056155e3503b3fbc60c2a40eb2986":"b3178c371a3cc5a04fd03aab46026d9a","0101fb0487d7ffc5fe9d6ae5a6d8db51":"6aedcac82d926fa07770d2786eccbeed","0102ac236c4621f10cfb06e25e332d92":"ad7642f252fdbb4de36b95725950f20f"}
+https://cf.live.latam.prd.media.max.com/live/lo/use1/fe87e538-e17b-41f9-98fb-83fc41150d8a-dash-6hdvr-cenc/master.mpd
+
 #EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR +",La 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
