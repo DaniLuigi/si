@@ -32,7 +32,7 @@ https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.m
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ATNT_Sports_2021_logo.svg&psig=AOvVaw01U-u8o0Bp5zmazlrYnf2z&ust=1714676827469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC4qI6T7YUDFQAAAAAdAAAAABAE" group-title="ESPN", TNT Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQBWFV41A7P7xgwqQOsphg","k":"sxeMNxo8xaBP0DqrRgJtmg"},{"kty":"oct","kid":"AQH7BIfX_8X-nWrlptjbUQ","k":"au3KyC2Sb6B3cNJ4bsy-7Q"},{"kty":"oct","kid":"AQKsI2xGIfEM-wbiXjMtkg","k":"rXZC8lL9u03ja5VyWVDyDw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=010056155e3503b3fbc60c2a40eb2986":"b3178c371a3cc5a04fd03aab46026d9a","0101fb0487d7ffc5fe9d6ae5a6d8db51":"6aedcac82d926fa07770d2786eccbeed","0102ac236c4621f10cfb06e25e332d92":"ad7642f252fdbb4de36b95725950f20f"
 https://cf.live.latam.prd.media.max.com/live/lo/use1/fe87e538-e17b-41f9-98fb-83fc41150d8a-dash-6hdvr-cenc/master.mpd
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="ESPN",ESPN 2
