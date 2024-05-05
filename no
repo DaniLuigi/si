@@ -304,7 +304,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="MOVISTAR +",LaLiga TV Andorra
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=https://cwip-shaka-proxy.appspot.com
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DhRirpU9V6-q62EmwAH32g","k":"ZofuiRVqmEehW88cbX_juw"},{"kty":"oct","kid":"O3Zfa4MoXjqVAahoh9evKQ","k":"PQY5I8Grq7iFu7ynzLGAGQ"},{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"AsjsSgHlE1wvPNltOXr47A"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"CL_fUYAR8GJ2OZYSWQBZ5Q"},{"kty":"oct","kid":"OJbBik_NVO-rr5sb2xgw9Q","k":"4P5gcGmvTcyho48dg3KjCw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"aa3de450728e50edbcd47ab039200f6e":"4b1b1b8eb7585295fc6c9ad054bac647","3884d18d872d50b59ceaf03530cddbcc":"45f5ad675bf4d9056042a90123302c0f","3896c18a4fcd54efabaf9b1bdb1830f5":"e3bf13c8d463af5e5bb567a1c3ea1725"}
 https://tvup-live.akamaized.net/laligatv/laligatv.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="MOVISTAR +",LaLiga TV Andorra 2
