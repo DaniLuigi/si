@@ -435,7 +435,8 @@ https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manife
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" group-title="MOVISTAR +", National Geographic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ext" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="MOVISTAR +", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
