@@ -253,13 +253,13 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 tvg-id="Dazn LaLiga 2" group-title="MOVISTAR +",Dazn LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
-#EXTINF:-1 tvg-id="DAZN 1 BAR" tvg-logo="https://i.imgur.com/r1jaBaC.png" group-title="MOVISTAR +",DAZN 1 BAR
+#EXTINF:-1 tvg-id="DAZN 1 BAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/DAZLB1.png" group-title="MOVISTAR +",DAZN 1 BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"54DxexCxrjfBc3k7HgCXJg", "kid":"XuMeryY2Q2mYmTM/5l+gFg" } ], "type":"temporary" }
 https://dnmupk2cxof0g.cloudfront.net/daznch01/daznch01.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 BAR" tvg-logo="https://i.imgur.com/xz8x5Rc.png" group-title="MOVISTAR +",DAZN 2 BAR
+#EXTINF:-1 tvg-id="DAZN 2 BAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/DAZLB2.png" group-title="MOVISTAR +",DAZN 2 BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dnnmYXE+BwD+hnDPg8JSEw", "kid":"u8MvQFcIRy2oekd0tmQZSA" } ], "type":"temporary" }
