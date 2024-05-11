@@ -172,7 +172,7 @@ https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 #KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
 https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="MOVISTAR +",13 TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/13TV.png" group-title="MOVISTAR +",13 TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67fce2ad7b5af340e31da7c559decdd4:5f92152dc862fdab5eff9abf0b8b6940
 https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
@@ -193,7 +193,7 @@ https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 #KODIPROP:inputstream.adaptive.license_key=f04510b6bc0f4a7f83661fcc0908040d:e194d6c7ed998932b1ffc27eff231145
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NEOX%29/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/ATRESERIES_176x122.png" group-title="MOVISTAR +",Atreseries
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ATRESS.png" group-title="MOVISTAR +",Atreseries
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR +",Paramount Network
@@ -392,13 +392,13 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28TELEDEPORTEHD%29/manif
 #KODIPROP:inputstream.adaptive.license_key=7412d06579ba4c9c8ecf35c381272570:ea2aa6a3cb2c6e9e2dde24f1a994aa01
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(GOLTV)/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_1_WHITE_176x122.png" group-title="MOVISTAR +",Eurosport 1
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ESP.png" group-title="MOVISTAR +",Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_2_WHITE_176x122.png" group-title="MOVISTAR +",Eurosport 2
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ESP2.png" group-title="MOVISTAR +",Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
