@@ -141,7 +141,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
 https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_ESPA%C3%91A_LOGO.png/800px-FOX_ESPA%C3%91A_LOGO.png" group-title="MOVISTAR +",FOX
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/FOXGE.png" group-title="MOVISTAR +",Star Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc1e7bf2842e4bd698016c4352cb0829:3da5bf512ed3350a4d53b0fd6cc00fa9
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28FOXHD%29/manifest.mpd
