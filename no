@@ -505,8 +505,8 @@ https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="MOVISTAR +", Mega HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fedca9d905f24768889d4b79759977d8:eb06b9f13d536dfde729ebdc849da435
-http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28MEGA%29/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"17c96fff5b3656e3973b2431d54740e3":"4ea5aa764f7806b1bc9d5d70dc30f953","d7929e94a9035f8eb174edcd585e33da":"843ae6087cb1c7897107ed477f12ad07","a5bcd9e88a9f56c198ffbdd1057a701d":"bdffe57e1abd9ce12c400da3b2e5d3ae"}
+https://tvup-live.akamaized.net/mega6/mega6.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="M ESTILO DE VIDA", BE MAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
