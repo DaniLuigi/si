@@ -253,8 +253,8 @@ https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_76C9_40E_1_C00000_0_0_0.png?w=440&ssl=1" group-title="MOVISTAR +",Dazn LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="Dazn LaLiga 2" group-title="MOVISTAR +",Dazn LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
@@ -274,14 +274,14 @@ https://dmc5sdps1d8o6.cloudfront.net/daznch02/daznch02.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN",Dazn 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1 tvg-id="Dazn 4" tvg-name="Dazn 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/DAZN4.png" group-title="DAZN",Dazn 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -304,19 +304,8 @@ https://d3nqic46bxtya.cloudfront.net/daznch00/daznch00.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1" group-title="DAZN F1",Dazn F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="MOVISTAR +",LaLiga TV Andorra
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=https://cwip-shaka-proxy.appspot.com
-#KODIPROP:inputstream.adaptive.license_key={"aa3de450728e50edbcd47ab039200f6e":"4b1b1b8eb7585295fc6c9ad054bac647","3884d18d872d50b59ceaf03530cddbcc":"45f5ad675bf4d9056042a90123302c0f","3896c18a4fcd54efabaf9b1bdb1830f5":"e3bf13c8d463af5e5bb567a1c3ea1725"}
-https://tvup-live.akamaized.net/laligatv/laligatv.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="MOVISTAR +",LaLiga TV Andorra 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/LAc69D6V3qeJxn+F4uazQ","k":"MsSJtnrENMkvqodrb8CP1g"},{"kty":"oct","kid":"FdmsHn5tVKajiGC6ojAEMw","k":"uhJYusaFn3Gm1C/bTwMDCg"},{"kty":"oct","kid":"GU/e/RhvXCS9OZ02Vl2oQw","k":"ucPYgxibV//aPEr0iT/1gw"}]}
-https://tvup-live.akamaized.net/laliga1/laliga1.mpd
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="MOVISTAR +",LaLiga TV Bar
 http://844123976195268042.ofds0328.xyz:80/play/E9VJAJUH49/4XANxQcPRvU/268042.ts
